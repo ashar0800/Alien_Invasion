@@ -1,5 +1,7 @@
 <div align=center margin= auto> 
-  <img src="image1.PNG"  width=40%>  <img src="image2.PNG"  width=40%>
+  <img src="image1.PNG"  width=80%>
+  <h3>Before and after starting the game</h3>
+  <img src="image2.PNG"  width=80%>
 </div>
 
 # 👽 Alien Invasion
