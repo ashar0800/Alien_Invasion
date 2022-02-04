@@ -1,6 +1,6 @@
 <div align=center margin= auto> 
   <img src="image/image1.PNG"  width=80%>
-  <h3>Before and after starting the game</h3>
+  <h2>Before and after starting the game</h2>
   <img src="image/image2.PNG"  width=80%>
 </div>
 
@@ -33,3 +33,6 @@ loses a ship. If the player loses three ships, the game ends.
   - Move the ship left / right
 
 Enjoy!
+
+I can use alternative image for Alien Ships such as Inverted Bullet Shooter as shown:
+<img src="image/image3.PNG"  width=80%>
