@@ -37,5 +37,5 @@ Enjoy!
 I can use alternative image for Alien Ships such as Inverted Bullet Shooter as shown:
 
 <div align=center margin= auto> 
-<img src="image/image3.PNG"  width=80%>
+<img src="image/image3.png"  width=80%>
 </div>
